@@ -1,0 +1,2 @@
+amocrm_user_email=ali1234@gmail.com
+amocrm_user_password=user_1234
